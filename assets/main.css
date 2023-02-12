@@ -3,7 +3,7 @@
 }
 body{
   font-family: apercu, monospace;
-  font-size: 1rem;
+  font-size: 1em;
   line-height: 2.5;
   color: #403c3c;
   padding: 0;
@@ -11,7 +11,6 @@ body{
 }
 #top{
   margin: 5% 10%;
-  font-size: 0.8em;
 }
 body a{
   color: #403c3c;
