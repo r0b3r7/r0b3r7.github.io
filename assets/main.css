@@ -42,11 +42,11 @@ body a.active{
 #footer{
 	background-color: #f1f1f1;
 	text-align: left;
-	padding: 10px;
+  padding: 10px 0;
 	font-size: 0.5em;
 }
 #footer p {
-	margin: 0 10%;
+	margin: 0 10% 0 10%;
 }
 #global {
   min-height: 30%;
