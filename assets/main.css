@@ -53,6 +53,9 @@ body a.active{
 .spacer{
   overflow: auto;
 }
+.right a{
+  display: block;
+}
 
 @media only screen and (max-width:800px) {
   /* For tablets: */
